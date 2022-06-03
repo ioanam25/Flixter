@@ -33,11 +33,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='recording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
-## Notes
-
-Working on implementing playing video trailers by calling tge youtube API.
-
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
